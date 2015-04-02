@@ -1,5 +1,4 @@
 1)`curl -i -X POST -H "Content-Type:application/json" -d '{"name":"Test Event 1", "description":"Test description 1"}' http://localhost:8080/events`   
-Response:   
 HTTP/1.1 201 Created   
 Server: Apache-Coyote/1.1   
 Location: http://localhost:8080/events/1   
