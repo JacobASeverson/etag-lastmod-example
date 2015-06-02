@@ -1,1 +1,1 @@
-This project accompanies a post on the OPI Blog: TODO link  
+This project accompanies a post on the OPI Blog: https://goo.gl/KwuETc  
